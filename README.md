@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Subhani Jayoda! 👋</h1>
-<h3 align="center">🚀 Passionate Frontend Developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">🚀 Passionate Trainee Full Stack Developer from Sri Lanka</h3>
 
 ---
 
@@ -49,29 +49,4 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhani-Jayoda&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhani-Jayoda&theme=radical&layout=compact&hide_border=true" />
-</p>
-
----
-
-### 🚀 Latest Projects  
-| 🚀 Project | 🔥 Description |
-|------------|--------------|
-| **Portfolio Website** | A sleek personal portfolio to showcase my work |
-| **E-Commerce App** | A full-stack React + Node.js online store |
-| **AI Chatbot** | Built a chatbot with Python & OpenAI API |
-
----
-
-### 🎵 What I'm Listening To  
-[![Spotify](https://novatorem-subhani.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
-
----
-
-💙 **Star this repository if you like it!** ⭐  
 🚀 *Let's connect and build something amazing together!*  
