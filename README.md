@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Subhani-Jayoda
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, TypeScript, and Machine Learning
+- 🌱 I’m currently learning React, TypeScript, and Java
 - 💞️ I’m looking to collaborate on innovative tech projects and community-driven initiatives
 - 📫 How to reach me subhagamage100@gmail.com
 - 😄 Pronouns: She/Her
