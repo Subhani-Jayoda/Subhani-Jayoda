@@ -8,7 +8,7 @@
 
 ---
 
-### 🎯 About ME  
+### 🎯 About Me 
 🔹 **🌱 Currently Learning**: React, Java, TypeScript  
 🔹 **💻 Love to Code in**: JavaScript, C++, Python  
 🔹 **📫 Reach me at**: [subhagamage@gmail.com](mailto:subhagamage@gmail.com)  
