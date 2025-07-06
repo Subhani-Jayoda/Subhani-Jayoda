@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400px">
 </p>
 
-<h1 align="center">Hi there, I'm SUBHANI JAYODA....👋</h1>
+<h1 align="center">Hi there, I'm SUBHANI JAYODA  👋</h1>
 <h3 align="center">🚀 Passionate Trainee Full Stack Developer from Sri Lanka</h3>
 
 ---
