@@ -66,7 +66,7 @@
 
 ### 📌 PROJECTS
 
-🔹 **Digital Garage Management System (Group Project)**  
+🔹 **Digital Garage Management System **  
 - Contributed to requirement analysis and feature planning  
 - Assisted in testing workflows and identifying bugs  
 - Collaborated with team members using basic Agile practices  
