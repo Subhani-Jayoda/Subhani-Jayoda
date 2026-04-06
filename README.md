@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm SUBHANI JAYODA! 👋</h1>
-<h3 align="center">🔍 Aspiring QA Engineer / Business Analyst from Sri Lanka</h3>
+<h3 align="center">🔍 Aspiring QA Engineer / Business Analyst / Project Manager from Sri Lanka</h3>
 
 ---
 
@@ -66,7 +66,7 @@
 
 ### 📌 PROJECTS
 
-🔹 **Digital Garage Management System **  
+🔹 **Digital Garage Management System**  
 - Contributed to requirement analysis and feature planning  
 - Assisted in testing workflows and identifying bugs  
 - Collaborated with team members using basic Agile practices  
