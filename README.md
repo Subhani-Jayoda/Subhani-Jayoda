@@ -14,7 +14,6 @@
 🔹 **🧪 Interested In**: Manual Testing, Requirement Analysis, Project Coordination  
 🔹 **📊 Skills**: Problem Solving, Communication, Analytical Thinking, Team Collaboration  
 🔹 **📫 Reach me at**: [subhagamage@gmail.com](mailto:subhagamage@gmail.com)  
-🔹 **⚡ Fun Fact**: I can solve a Rubik’s Cube in under a minute! 🤯  
 
 ---
 
