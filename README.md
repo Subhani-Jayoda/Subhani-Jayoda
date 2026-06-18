@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm SUBHANI JAYODA! 👋</h1>
-<h3 align="center">🔍 Aspiring QA Engineer / Business Analyst / Project Manager from Sri Lanka</h3>
+<h3 align="center">🔍 Aspiring Web Developer ,QA Engineer / Business Analyst / Project Manager from Sri Lanka</h3>
 
 ---
 
